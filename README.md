@@ -1,6 +1,9 @@
 # SnakeGame
 Hi guys today we create a game called "snake game" with javascript
 Codes:
+            
+            
+            
             class SnakeGame {
                 constructor() {
                     this.canvas = document.getElementById("oyun");
